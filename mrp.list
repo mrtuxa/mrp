@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/my_ppa.gpg] https://mrtuxa.github.io/mrp ./
+deb [signed-by=/etc/apt/trusted.gpg.d/mrp.gpg] https://debian.sys2nix.de ./
