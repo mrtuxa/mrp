@@ -1,0 +1,75 @@
+Package: teamspeak3-client
+Version: 3.5.3
+Architecture: i386
+Maintainer: mrtuxa <email: mrtuxa@leipzig.freifunk.net matrix: @mrtuxa:sys2nix.de>
+Depends: menu
+Filename: ./i386/teamspeak3-client_i386.deb
+Size: 1724
+MD5sum: 6a76d84de9f97e5e1720cf45c7861de3
+SHA1: 2adc8ef0e9d3137667bcac3159f9e55f3b501ea6
+SHA256: 3d493f41bcafda8a20eab79cac8856bc064533a89d77248b3623513e102e3b29
+Section: non-free/net
+Priority: optional
+Homepage: https://github.com/mrtuxa/teamspeak-debian
+Description: VoIP chat for online gaming
+ TeamSpeak is a quality, scalable application which enables people to speak
+ with one another over the Internet. TeamSpeak consists of both client and
+ server software. The server acts as a host to multiple client connections,
+ capable of handling literally thousands of simultaneous users. This results
+ in an Internet based teleconferencing solution that works in a variety of
+ applications such as team mates speaking with one another while playing
+ their favorite online game, small businesses cutting costs on long distance
+ charges, or for personal communication with friends and family.
+ .
+ This package contains the graphical TeamSpeak3 client.
+
+Package: teamspeak3-client
+Version: 3.6.2
+Architecture: amd64
+Maintainer: mrtuxa <email: mrtuxa@leipzig.freifunk.net matrix: @mrtuxa:sys2nix.de>
+Depends: menu
+Filename: ./amd64/teamspeak3-client_amd64.deb
+Size: 1724
+MD5sum: 9bc3c6bfd1f62ba4a2c6791d0abc3fde
+SHA1: e03d7b99caf862b64168390130f9c084a7d7bb8e
+SHA256: b496a9429db34bbf30feb6809ac7941a8ae68a4daebe48120851cf9170180afc
+Section: non-free/net
+Priority: optional
+Homepage: https://github.com/mrtuxa/teamspeak-debian
+Description: VoIP chat for online gaming
+ TeamSpeak is a quality, scalable application which enables people to speak
+ with one another over the Internet. TeamSpeak consists of both client and
+ server software. The server acts as a host to multiple client connections,
+ capable of handling literally thousands of simultaneous users. This results
+ in an Internet based teleconferencing solution that works in a variety of
+ applications such as team mates speaking with one another while playing
+ their favorite online game, small businesses cutting costs on long distance
+ charges, or for personal communication with friends and family.
+ .
+ This package contains the graphical TeamSpeak3 client.
+
+Package: teamspeak5-client
+Version: 5.0.0-beta77
+Architecture: amd64
+Maintainer: mrtuxa <email: mrtuxa@leipzig.freifunk.net matrix: @mrtuxa:sys2nix.de>
+Depends: menu
+Filename: ./amd64/teamspeak5-client_amd64.deb
+Size: 1708
+MD5sum: 9e726d6e42b6d5ea63f46a16e89d0a65
+SHA1: 57ab9ab7f02f28d8267821b5efc16c4f9ea95dce
+SHA256: 69e6fd32235f5b94fbd236c59f15790870960170f3cf41fb2d7d3df6a2a27c48
+Section: non-free/net
+Priority: optional
+Homepage: https://github.com/mrtuxa/teamspeak-debian
+Description: VoIP chat for online gaming
+ TeamSpeak is a quality, scalable application which enables people to speak
+ with one another over the Internet. TeamSpeak consists of both client and
+ server software. The server acts as a host to multiple client connections,
+ capable of handling literally thousands of simultaneous users. This results
+ in an Internet based teleconferencing solution that works in a variety of
+ applications such as team mates speaking with one another while playing
+ their favorite online game, small businesses cutting costs on long distance
+ charges, or for personal communication with friends and family.
+ .
+ This package contains the graphical TeamSpeak3 client.
+
